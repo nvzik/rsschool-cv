@@ -22,7 +22,7 @@ I've finished my Finance Bachelor degree in 2022, but I decided to change my pro
 
 ## Courses and Certificates:
 * Go Developer course by [alem.school](https://alem.school): 
-![Go Developer Certificate] (https://github.com/nvzik/rsschool-cv/blob/gh-pages/certficate1.png)
+![Go Developer Certificate](https://github.com/nvzik/rsschool-cv/blob/gh-pages/certficate1.png)
 
 * SQL for Data Science from Coursera x University of California, [credential](https://www.coursera.org/account/accomplishments/certificate/83F7QMHK4RYZ)
 
@@ -31,7 +31,7 @@ I've finished my Finance Bachelor degree in 2022, but I decided to change my pro
 
 ## Languages:
 
-* English - C1, ![IELTS certificate] (https://github.com/nvzik/rsschool-cv/blob/gh-pages/certificate2.png)
+* English - C1, ![IELTS certificate](https://github.com/nvzik/rsschool-cv/blob/gh-pages/certificate2.png)
 * Russian - C2
 * Kazakh - C2 
 
